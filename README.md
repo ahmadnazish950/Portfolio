@@ -31,7 +31,8 @@ While it’s currently optimized for **desktop view**, mobile responsiveness wil
 
 ## 📷 Preview
 
-![Portfolio Screenshot](./portfolio.png)
+![Portfolio Screenshot](![portfolio](https://github.com/user-attachments/assets/75d48b3d-fb64-41d3-bf7b-05b9b2a295db)
+)
 
 ---
 
