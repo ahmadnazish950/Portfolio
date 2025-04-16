@@ -7,7 +7,7 @@ While it’s currently optimized for **desktop view**, mobile responsiveness wil
 
 ## 🚀 Live Preview
 
-👉 [View the live website]([https://your-portfolio-link.com](https://ahmadnazish950.github.io/Portfolio/))
+👉 [View the live website](https://ahmadnazish950.github.io/Portfolio/)
 
 ---
 
